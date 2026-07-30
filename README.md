@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-#all documentations are present in this repo
+# All documentations are present in this repo
